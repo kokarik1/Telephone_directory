@@ -1,0 +1,138 @@
+[
+  {
+    "surname": "Пигузов",
+    "name": "Алексей",
+    "middle_name": "Владимирович",
+    "company_name": "макскрой",
+    "work_phone_number": "75464543",
+    "personal_phone_number": "89287443561"
+  },
+  {
+    "surname": "Андрюшов",
+    "name": "Андрей",
+    "middle_name": "Валентинович",
+    "company_name": "сбер",
+    "work_phone_number": "65 45 76",
+    "personal_phone_number": "89391293213"
+  },
+  {
+    "surname": "Каратаев",
+    "name": "Виктор",
+    "middle_name": "Павлович",
+    "company_name": "автотранс",
+    "work_phone_number": "68 75 88",
+    "personal_phone_number": "85675623466"
+  },
+  {
+    "surname": "Петров",
+    "name": "Василий",
+    "middle_name": "",
+    "company_name": "Правительство",
+    "work_phone_number": "45 25 87",
+    "personal_phone_number": "84244412996"
+  },
+  {
+    "surname": "Анищенков",
+    "name": "Виталий",
+    "middle_name": "Геннадьевич",
+    "company_name": "RZD",
+    "work_phone_number": "",
+    "personal_phone_number": "8532233286"
+  },
+  {
+    "surname": "Теплов",
+    "name": "Мирон",
+    "middle_name": "",
+    "company_name": "Мостабак",
+    "work_phone_number": "47 32 89",
+    "personal_phone_number": "89623325641"
+  },
+  {
+    "surname": "Журавлев",
+    "name": "Артур",
+    "middle_name": "Олегович",
+    "company_name": "Правительство ",
+    "work_phone_number": "77 77 77",
+    "personal_phone_number": "85323250952"
+  },
+  {
+    "surname": "Митин",
+    "name": "Александр",
+    "middle_name": "Вадимович",
+    "company_name": "магнит",
+    "work_phone_number": "",
+    "personal_phone_number": "8673364963"
+  },
+  {
+    "surname": "Юрасов",
+    "name": "Александр",
+    "middle_name": "Александрович",
+    "company_name": "сбер",
+    "work_phone_number": "64 75 64",
+    "personal_phone_number": "89462387593"
+  },
+  {
+    "surname": "Глухов",
+    "name": "Александр",
+    "middle_name": "Павлович",
+    "company_name": "СТАРТ",
+    "work_phone_number": "58 58 53",
+    "personal_phone_number": "8645738534"
+  },
+  {
+    "surname": "Галдин ",
+    "name": "Никита",
+    "middle_name": "Олегович",
+    "company_name": "Эдвард",
+    "work_phone_number": "98 09 09",
+    "personal_phone_number": ""
+  },
+  {
+    "surname": "Ефремова",
+    "name": "Ольга",
+    "middle_name": "Николаевна ",
+    "company_name": "сбер",
+    "work_phone_number": "472 432",
+    "personal_phone_number": "89539976122"
+  },
+  {
+    "surname": "Воронина",
+    "name": "Екатерина",
+    "middle_name": "Андреевна",
+    "company_name": "Альфа банк",
+    "work_phone_number": "76 87 33",
+    "personal_phone_number": "89543575324"
+  },
+  {
+    "surname": "Чекалин",
+    "name": "Дмитрий",
+    "middle_name": "Викторович",
+    "company_name": "DNS",
+    "work_phone_number": "78 55 42",
+    "personal_phone_number": "85945757239"
+  },
+  {
+    "surname": "Самсонов",
+    "name": "Михаил",
+    "middle_name": "",
+    "company_name": "СТАРТ",
+    "work_phone_number": "67 85 32",
+    "personal_phone_number": "8994732756"
+  },
+  {
+    "surname": "Бурмистров",
+    "name": "Алексей",
+    "middle_name": "Анатольевич",
+    "company_name": "Альфа банк",
+    "work_phone_number": "867 333",
+    "personal_phone_number": "8738474912"
+  },
+  {
+    "surname": "Карпов",
+    "name": "Виктор",
+    "middle_name": "Анатольевич",
+    "company_name": "Макскрой",
+    "work_phone_number": "78 78 98",
+    "personal_phone_number": "892141282"
+  }
+]
